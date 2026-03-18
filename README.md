@@ -1,3 +1,5 @@
+![103 sin título_20260317220014_1](https://github.com/user-attachments/assets/66df4a41-1117-4c1f-aadc-fe781af61a77)
+
 # ZAARD.2 Token (ZaardToken) 🤖🚀
 
 Official repository for **ZAARD.2**, the next generation of AI-driven decentralized economy.
