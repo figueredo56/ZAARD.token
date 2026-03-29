@@ -1,23 +1,32 @@
 ![103 sin título_20260317220014_1](https://github.com/user-attachments/assets/66df4a41-1117-4c1f-aadc-fe781af61a77)
 
-# ZAARD.2 Token (ZaardToken) 🤖🚀
+# ZAARD.token 🚀
 
-Official repository for **ZAARD.2**, the next generation of AI-driven decentralized economy.
+### Repositorio Oficial del Token ZAARD 2: La nueva era de la innovación.
 
-## 📄 Contract Information
-- **Contract Name:** ZaardToken
-- **Network:** Binance Smart Chain (BSC)
-- **Contract Address:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
-- **Total Supply:** 1,000,000 ZAARD.2
-- **Compiler:** v0.8.31
-
-## 🛡️ Security & Transparency
-This project is committed to full transparency. 
-- **Open Source:** All contract files are available in this repository.
-- **Verified:** The contract source code is verified on BscScan.
-
-## 🎯 Vision
-ZAARD.2 aims to power the future of AI micro-transactions and decentralized digital services.
+Este es el repositorio oficial y actualizado para el proyecto **ZAARD**. Hemos migrado a este nuevo contrato para mejorar la seguridad y funcionalidad del ecosistema impulsado por IA.
 
 ---
-🚀 *The future of AI is decentralized.*
+
+## 🌐 Canales Oficiales y Comunidad
+* **Sitio Web:** [https://zaard.carrd.co]
+* **Comunidad en X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
+* **Correo Electrónico:** [ZAARD.INNOVATION@gmail.com]
+* **YouTube:** [ZAARD ALX](https://youtube.com/@zaard_alx)
+
+---
+
+## 📄 Información del Contrato
+* **Nombre del contrato:** ZaardToken
+* **Red:** Binance Smart Chain (BSC)
+* **Dirección del contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
+* **Suministro total:** 1.000.000 ZAARD.2
+* **Compilador:** v0.8.31
+
+---
+
+## 🛡️ Seguridad y Transparencia
+* **Código abierto:** Todos los archivos de contrato están disponibles en este repositorio.
+* **Verificado:** El código fuente del contrato está verificado en BscScan.
+
+> **Aviso:** Este es el único repositorio oficial. No confíe en fuentes externas no listadas aquí.
