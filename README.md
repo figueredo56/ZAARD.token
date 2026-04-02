@@ -16,7 +16,6 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 *Los rangos fundamentales que sostienen el valor de nuestra comunidad.*
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4" width="200" title="ZAARD Bronce" alt="ZAARD Bronce">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiay57c4nstujgnvlfichy6hw7yenmsza66imr3mwxkzq4qjfoyxqa" width="200" title="ZAARD Oro" alt="ZAARD Oro">
 </p>
@@ -29,7 +28,6 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 <p align="center">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiauy3bpxp7mztsmumdz4behirxk77eayp4sc7uq4enfwsg73nfk2q" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeig5vjbyw7t26p6b4m65m6e4w4x5oeb4v4w6k7c6oeb4v4w6k7c6oeb4" width="200" title="ZAARD Zafiro" alt="ZAARD Zafiro">
 </p>
 *(Nota: He añadido un link temporal para Zafiro para completar la trilogía visual. Reemplázalo si tienes tu propio link CID).*
 
