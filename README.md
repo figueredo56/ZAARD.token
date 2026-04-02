@@ -25,3 +25,58 @@ Explora el arte y la exclusividad de nuestros activos digitales verificados en l
 
 ---
 *© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe" width="250" alt="ZAARD Logo Principal">
+</p>
+
+# 🚀 ZAARD INNOVATION
+### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
+
+Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
+
+---
+
+## 💎 JERARQUÍA DEL ECOSISTEMA ZAARD (NFTs)
+Explora la exclusividad y el poder de nuestros activos digitales verificados, desde los pilares de la economía hasta la deidad absoluta de la red.
+
+### ✨ Los Pilares de la Economía
+*Los rangos fundamentales que sostienen el valor de nuestra comunidad.*
+
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4" width="200" title="ZAARD Bronce" alt="ZAARD Bronce">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeiay57c4nstujgnvlfichy6hw7yenmsza66imr3mwxkzq4qjfoyxqa" width="200" title="ZAARD Oro" alt="ZAARD Oro">
+</p>
+
+---
+
+### 🔥 La Trilogía de Gemas Elementales
+*Poder refinado y energía concentrada. Estos rangos representan la maestría sobre los elementos criptográficos.*
+
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeiauy3bpxp7mztsmumdz4behirxk77eayp4sc7uq4enfwsg73nfk2q" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeig5vjbyw7t26p6b4m65m6e4w4x5oeb4v4w6k7c6oeb4v4w6k7c6oeb4" width="200" title="ZAARD Zafiro" alt="ZAARD Zafiro">
+</p>
+*(Nota: He añadido un link temporal para Zafiro para completar la trilogía visual. Reemplázalo si tienes tu propio link CID).*
+
+---
+
+### 👑 EL REY ABSOLUTO: ZAARD PANGA
+**EL INALCANZABLE - LA DEIDAD DE LA WEB3**
+
+Este no es un simple activo digital; es la manifestación del poder total en el ecosistema. Poseer al **Fénix PANGA** es poseer la llave de la deidad cripto. Es el rango supremo, la culminación de la colección, diseñado solo para los verdaderos visionarios de la Web3. Su poder es total, su presencia es absoluta y su valor trasciende el mercado. **Es la deidad que gobierna ZAARD.**
+
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe" width="300" title="ZAARD PANGA - LA DEIDAD" alt="ZAARD PANGA - LA DEIDAD">
+</p>
+
+---
+
+## 🌐 ENLACES OFICIALES
+- **Sitio Web:** [ZAARD Official Site](https://zaard.carrd.co)
+- **Red:** BNB Smart Chain (BSC)
+- **Contrato:** `0xd9e66399a7017c6fb5b6236d2bb`
+
+---
+*© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
