@@ -13,7 +13,6 @@ Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la ex
 Explora el arte y la exclusividad de nuestros activos digitales verificados en la red de Binance.
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4" width="200" title="ZAARD Bronce" alt="ZAARD Bronce">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
 </p>
 
