@@ -1,39 +1,28 @@
-![103 sin título_20260317220014_1]([ZAARD Logo](https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe)
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe" width="250" alt="ZAARD Logo Principal">
+</p>
 
-# ZAARD.token 🚀
+# 🚀 ZAARD INNOVATION
+### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
 
-### Repositorio Oficial del Token ZAARD 2: La nueva era de la innovación.
-
-Este es el repositorio oficial y actualizado para el proyecto **ZAARD**. Hemos migrado a este nuevo contrato para mejorar la seguridad y potenciar un ecosistema descentralizado impulsado por IA.
-
----
-
-## 🌐 Canales Oficiales y Comunidad
-* **Sitio Web:** [https://zaard.carrd.co](https://zaard.carrd.co)
-* **Comunidad en X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
-* **Correo Electrónico:** [ZAARD.INNOVATION@gmail.com](mailto:ZAARD.INNOVATION@gmail.com)
-* **YouTube:** [ZAARD ALX](https://youtube.com/@zaard_alx)
+Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
 
 ---
 
-## 📄 Información del Contrato
-* **Nombre del contrato:** ZaardToken
-* **Red:** Binance Smart Chain (BSC)
-* **Dirección del contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
-* **Suministro Total:** 900.000 ZAARD.2 (🔥 10% Quemado)
-* **Compilador:** v0.8.31
+## 💎 NUESTRAS COLECCIONES NFT
+Explora el arte y la exclusividad de nuestros activos digitales verificados en la red de Binance.
+
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeicxshkikw3p63ginaoszcnodr2pech2zspggtt7a5q3voqufahos4" width="200" title="ZAARD Bronce" alt="ZAARD Bronce">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
+</p>
 
 ---
 
-## 🛡️ Seguridad y Transparencia
-* **Liquidez:** 🔒 **Bloqueada en el Pool de Liquidez** para garantizar la estabilidad del proyecto.
-* **Prueba de Quema:** 🔥 Se han quemado permanentemente **100.000 tokens**, reduciendo el suministro total para aumentar la escasez.
-* **Código Abierto:** Todos los archivos de contrato están disponibles para auditoría en este repositorio.
-* **Verificado:** El código fuente del contrato está verificado en BscScan.
+## 🌐 ENLACES OFICIALES
+- **Sitio Web:** [ZAARD Official Site](https://zaard.carrd.co)
+- **Red:** BNB Smart Chain (BSC)
+- **Contrato:** `0xd9e66399a7017c6fb5b62`
 
 ---
-
-## 🎯 Visión
-ZAARD nace con el objetivo de integrar la Inteligencia Artificial en la economía descentralizada, creando un ecosistema eficiente, seguro y accesible para toda la comunidad global.
-
-> **Aviso Importante:** Este es el único repositorio oficial. No confíe en fuentes externas ni contratos que no estén listados en esta página.
+*© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
