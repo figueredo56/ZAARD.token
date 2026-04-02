@@ -1,4 +1,4 @@
-![103 sin título_20260317220014_1](https://github.com/user-attachments/assets/66df4a41-1117-4c1f-aadc-fe781af61a77)
+![103 sin título_20260317220014_1]([ZAARD Logo](https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe)
 
 # ZAARD.token 🚀
 
