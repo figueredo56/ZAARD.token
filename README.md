@@ -21,7 +21,7 @@ Explora el arte y la exclusividad de nuestros activos digitales verificados en l
 ## 🌐 ENLACES OFICIALES
 - **Sitio Web:** [ZAARD Official Site](https://zaard.carrd.co)
 - **Red:** BNB Smart Chain (BSC)
-- **Contrato:** `0xd9e66399a7017c6fb5b62`
+- **Contrato:** `0xd9e66399a7017c6fb5b6236d2bb`
 
 ---
 *© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
