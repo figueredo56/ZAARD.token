@@ -66,7 +66,6 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiauy3bpxp7mztsmumdz4behirxk77eayp4sc7uq4enfwsg73nfk2q" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
 </p>
-*(Nota: He añadido un link temporal para Zafiro para completar la trilogía visual. Reemplázalo si tienes tu propio link CID).*
 
 ---
 
