@@ -7,6 +7,30 @@
 
 Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
 
+💎 Fundamentos de Acero
+
+Lo que separa a un proyecto pasajero de una revolución es su base. ZAARD.2 se ha construido sobre tres pilares innegociables:
+
+Código Abierto (Open Source): ¡Sin secretos! El equipo ha liberado el repositorio oficial en GitHub. Cualquier desarrollador o inversor puede auditar el Smart Contract. En ZAARD.2, la confianza no se pide, se demuestra.
+
+Escasez Real y Suministro Transparente: Con un suministro total de tan solo 1,000,000 de tokens, ZAARD.2 apuesta por la exclusividad. En un mercado inundado de trillones de tokens sin valor, la estructura de ZAARD está diseñada para la apreciación y el impacto real.
+
+Verificación Total: El contrato ya está verificado en BscScan, asegurando que lo que ves es exactamente lo que obtienes. Seguridad máxima para los holders.
+
+📈 Un Momento Explosivo: ¡Estamos en el Inicio!
+
+El mercado está empezando a despertar. Con un crecimiento reciente del +16.3% y una capitalización de mercado aún joven de $1.11K, estamos ante el escenario soñado por cualquier inversor de la Web3: entrar antes de que el mundo se entere.
+
+Liquidez en PancakeSwap: Operando activamente en el DEX más grande de Binance.
+
+Comunidad Creciente: El número de titulares está en aumento constante, formando una base de "manos de diamante" lista para el siguiente nivel.
+
+🔥 ¿Estás listo para ser parte de la historia?
+
+La Web3 de Binance es el patio de recreos de los gigantes, y ZAARD.2 ha llegado para reclamar su lugar. No estamos aquí para seguir tendencias, estamos aquí para establecer el estándar de cómo debe ser un proyecto comunitario, abierto y seguro.
+
+
+
 ---
 
 ## 💎 JERARQUÍA DEL ECOSISTEMA ZAARD (NFTs)
