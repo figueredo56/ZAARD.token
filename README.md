@@ -27,7 +27,7 @@ Comunidad Creciente: El número de titulares está en aumento constante, formand
 
 ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
 
-![Logo ZAARD](https://raw.githubusercontent.com/Figueredo56/ZAARD.token/main/logo.svg)
+![Logo ZAARD](https://gateway.pinata.cloud/ipfs/bafybeihyyfnc5xbixbpocvfwl4xoy4dylfy6hvnkr6ar7cc5mlsk5twzb4)
 
 
 
