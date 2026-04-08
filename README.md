@@ -25,6 +25,11 @@ Liquidez en PancakeSwap: Operando activamente en el DEX más grande de Binance.
 
 Comunidad Creciente: El número de titulares está en aumento constante, formando una base de "manos de diamante" lista para el siguiente nivel.
 
+ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
+
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/Figueredo56/ZAARD.token/main/logo.svg)
+
+
 🔥 ¿Estás listo para ser parte de la historia?
 
 La Web3 de Binance es el patio de recreos de los gigantes, y ZAARD.2 ha llegado para reclamar su lugar. No estamos aquí para seguir tendencias, estamos aquí para establecer el estándar de cómo debe ser un proyecto comunitario, abierto y seguro.
