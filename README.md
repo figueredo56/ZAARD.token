@@ -135,7 +135,7 @@ Colección de alta gama que integra metadatos dinámicos impulsados por Intelige
 
 #ZAARD COLLECTION
 Repositorio dedicado a la gestión de activos estándar del ecosistema, optimizados para una alta eficiencia en la red BSC y máxima compatibilidad con marketplaces globales.
-👉 [Explorar Repositorio ZAARD COLLECTION](https://github.com/Figueredo56/zaard-collection)
+👉 [Explorar Repositorio ZAARD COLLECTION](https://github.com/figueredo56/ZAARD_COLLECTION)
 
 ---
 
