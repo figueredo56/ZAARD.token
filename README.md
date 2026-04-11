@@ -131,7 +131,7 @@ El ecosistema ZAARD INNOVATION se divide en dos vertientes estratégicas de acti
 
 #ZAARD INFINITO
 Colección de alta gama que integra metadatos dinámicos impulsados por Inteligencia Artificial. Representa la cúspide técnica de nuestra integración entre algoritmos y blockchain.
-👉 [Explorar Repositorio ZAARD INFINITO](https://github.com/Figueredo56/zaard-infinito)
+👉 [Explorar Repositorio ZAARD INFINITO](https://github.com/figueredo56/ZAARD-NFT-Contract)
 
 #ZAARD COLLECTION
 Repositorio dedicado a la gestión de activos estándar del ecosistema, optimizados para una alta eficiencia en la red BSC y máxima compatibilidad con marketplaces globales.
@@ -163,5 +163,9 @@ Stay connected with the true source of ZAARD innovation.
 - **Contrato:** `0xd9e66399a7017c6Fb5b624D491Bb96a4a736D2Bb`
 
 ---
+---
+[← Volver al repositorio principal de ZAARD INNOVATION](https://github.com/Figueredo56/ZAARD.token) | [Ir al Yellow Paper →](https://github.com/Figueredo56/zaard-yellowpaper)
+
+
 *© 2026 ZAARD INNOVATION - Todos los derechos reservados.*
 
