@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeib5xg3hrhliizyw7n65reashvsqf6ritx7oi5334rbcvync27hbwe" width="250" alt="ZAARD Logo Principal">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeic3ugoyafgg6qnuo4egrdsb5adz262vjs7fqrsqrakiutus2lxp7y" width="250" alt="ZAARD Logo Principal">
 </p>
 
 # 🚀 ZAARD INNOVATION
