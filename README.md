@@ -50,6 +50,29 @@ El Momento es Ahora: Mientras otros dudan, nosotros construimos. Mientras otros 
 ZAARD no es una prueba; es el estándar. Hemos creado el activo definitivo para quienes tienen el valor de apostar por el mañana hoy mismo.
 
 Únete a la legión del Fénix. Adquiere tu rango oficial y sé parte del legado que está transformando la blockchain. 🔥💎
+# ZAARD Token: El Ecosistema de Gestión de Activos con IA
+
+Bienvenido al repositorio oficial de ZAARD en la BNB Smart Chain.
+
+---
+
+## 📄 Documentación Oficial
+
+Para entender completamente el proyecto ZAARD, su visión, economía y tecnología detallada, por favor consulta nuestra documentación oficial:
+
+### 1. Visión y Economía del Proyecto (Whitepaper)
+
+Este documento explica **qué** es ZAARD, por qué existe, el problema que resuelve y cómo funciona la economía del token (tokenomics) para inversores y usuarios.
+
+👉 **[Leer el Whitepaper Completo (Visión General)](WHITEPAPER.md)**
+
+---
+
+### 2. Especificaciones Técnicas y Matemáticas (Yellow Paper)
+
+Este documento es para desarrolladores, auditores y expertos técnicos. Explica **cómo** funciona el protocolo a bajo nivel, incluyendo las fórmulas matemáticas del staking, la arquitectura de los contratos inteligentes y la optimización de metadatos con IA `{}`.
+
+👉 **[Leer el Yellow Paper Completo (Detalles Técnicos)](YELLOW_PAPER.md)**
 
 
 ---
