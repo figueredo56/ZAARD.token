@@ -72,7 +72,7 @@ Este documento explica **qué** es ZAARD, por qué existe, el problema que resue
 
 Este documento es para desarrolladores, auditores y expertos técnicos. Explica **cómo** funciona el protocolo a bajo nivel, incluyendo las fórmulas matemáticas del staking, la arquitectura de los contratos inteligentes y la optimización de metadatos con IA `{}`.
 
-👉 **[Leer el Yellow Paper Completo (Detalles Técnicos)](YELLOW_PAPER.md)**
+👉 **[Leer el Yellow Paper Completo (Detalles Técnicos)](https://github.com/figueredo56/zaard-yellowpaper)**
 
 
 ---
