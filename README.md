@@ -64,7 +64,7 @@ Para entender completamente el proyecto ZAARD, su visión, economía y tecnolog�
 
 Este documento explica **qué** es ZAARD, por qué existe, el problema que resuelve y cómo funciona la economía del token (tokenomics) para inversores y usuarios.
 
-👉 **[Leer el Whitepaper Completo (Visión General)](WHITEPAPER.md)**
+👉 **[Leer el Whitepaper Completo (Visión General)](https://github.com/figueredo56/ZAARD_Whitepaper)**
 
 ---
 
