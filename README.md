@@ -71,7 +71,7 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 *Poder refinado y energía concentrada. Estos rangos representan la maestría sobre los elementos criptográficos.*
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeiauy3bpxp7mztsmumdz4behirxk77eayp4sc7uq4enfwsg73nfk2q" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeiafcclndycyvb5p62jjhnypzezaa2fxw2oqmlt5azvual334lgd6y" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
 </p>
 
