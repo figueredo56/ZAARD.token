@@ -119,6 +119,26 @@ ESCASEZ RADICAL: No hay lugar para todos en la cima. PANGA es la distinción def
 
 CONFIANZA TOTAL: Creemos tanto en el futuro que no solo lo imaginamos, creamos los activos oficiales que lo sostienen. ZAARD es la infraestructura; PANGA es el poder que la mueve.
 
+---
+
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafybeic5377igwloc2o63whivoykazkibjruq7bau4edjpfdfu4gudunjm" width="250" alt="ZAARD">
+</p>
+
+#Activos Digitales y Colecciones (NFTs)
+
+El ecosistema ZAARD INNOVATION se divide en dos vertientes estratégicas de activos digitales, cada una con su propia arquitectura de metadatos e infraestructura en IPFS:
+
+#ZAARD INFINITO
+Colección de alta gama que integra metadatos dinámicos impulsados por Inteligencia Artificial. Representa la cúspide técnica de nuestra integración entre algoritmos y blockchain.
+👉 [Explorar Repositorio ZAARD INFINITO](https://github.com/Figueredo56/zaard-infinito)
+
+#ZAARD COLLECTION
+Repositorio dedicado a la gestión de activos estándar del ecosistema, optimizados para una alta eficiencia en la red BSC y máxima compatibilidad con marketplaces globales.
+👉 [Explorar Repositorio ZAARD COLLECTION](https://github.com/Figueredo56/zaard-collection)
+
+---
+
 "En un mar de tokens vacíos, PANGA es el Fénix que quema la mediocridad para dar paso a la verdadera innovación tecnológica."
 
 No te limites a ser parte de la historia. Sé el dueño de la tecnología que la escribe.
