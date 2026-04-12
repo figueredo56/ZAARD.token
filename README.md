@@ -56,6 +56,16 @@ Bienvenido al repositorio oficial de ZAARD en la BNB Smart Chain.
 
 ---
 
+---
+
+## 🛡️ Seguridad y Confianza
+Para conocer más sobre las medidas de seguridad, el bloqueo de liquidez y la transparencia de nuestro ecosistema, visita nuestra guía oficial:
+
+### 🚀 [LEER: ZAARD Proyecto Seguro](ZAARD%20Proyecto%20Seguro.md)
+
+---
+
+
 ## 📄 Documentación Oficial
 
 Para entender completamente el proyecto ZAARD, su visión, economía y tecnología detallada, por favor consulta nuestra documentación oficial:
