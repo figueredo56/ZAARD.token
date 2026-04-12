@@ -62,12 +62,6 @@ Para conocer más sobre las medidas de seguridad, el bloqueo de liquidez y la tr
 
 ### 👉 [LEER: ZAARD Proyecto Seguro](https://github.com/Figueredo56/ZAARD-Proyecto-Seguro)
 
----
-
-## 📄 Documentación Oficial
-Para entender completamente el proyecto ZAARD, su visión, economía y tecnología detallada, por favor consulta el documento oficial:
-
-### 📗 [Whitepaper Completo (Visión General)](https://github.com/Figueredo56/ZAARD-Whitepaper)
 
 ---
 
@@ -113,8 +107,7 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 
 <p align="center">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeiafcclndycyvb5p62jjhnypzezaa2fxw2oqmlt5azvual334lgd6y" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeiaxdhf2ibejcusfpozcpygwpndtk6p5qe7fucmstlolu4ywj7sq3e" width="200" title="ZAARD Rubí" alt="ZAARD Rubí">
-</p>
+
 
 ---
 
