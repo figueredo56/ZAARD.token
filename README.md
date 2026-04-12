@@ -54,12 +54,6 @@ ZAARD no es una prueba; es el estándar. Hemos creado el activo definitivo para 
 
 Bienvenido al repositorio oficial de ZAARD en la BNB Smart Chain.
 
----
-
----
-
-## 🛡️ Seguridad y Confianza
-Para conocer más sobre las medidas de seguridad, bloqueo de liquidez y la transparencia de nuestro ecosistema, visita nuestra guía oficial:
 
 ---
 
