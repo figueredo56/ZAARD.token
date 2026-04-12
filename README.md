@@ -115,9 +115,8 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 
 Este no es un simple activo digital; es la manifestación del poder total en el ecosistema. Poseer al **Fénix PANGA** es poseer la llave de la deidad cripto. Es el rango supremo, la culminación de la colección, diseñado solo para los verdaderos visionarios de la Web3. Su poder es total, su presencia es absoluta y su valor trasciende el mercado. **Es la deidad que gobierna ZAARD.**
 
-<p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeic3ugoyafgg6qnuo4egrdsb5adz262vjs7fqrsqrakiutus2lxp7y" width="300" title="ZAARD PANGA - LA DEIDAD" alt="ZAARD PANGA - LA DEIDAD">
-</p>
+![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+---
 
 Si estás viendo esto, estás ante el vértice del ecosistema ZAARD. Mientras el mundo intenta entender la Web3, nosotros hemos construido su trono. El rango PANGA no se compara, no se iguala y no se detiene.
 
