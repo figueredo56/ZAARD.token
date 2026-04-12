@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeic3ugoyafgg6qnuo4egrdsb5adz262vjs7fqrsqrakiutus2lxp7y" width="250" alt="ZAARD Logo Principal">
-</p>
+![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+
 
 # 🚀 ZAARD INNOVATION
 ### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
