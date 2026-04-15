@@ -1,4 +1,4 @@
-![ZAARD INNOVATION](https://gateway.pinata.cloud/ipfs/bafybeihwgutss2majkvanadmm4rwbp6kpcgywebs3cgpgwdcs45ut3srd4)
+https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/zaard_logo.png
 
 
 # 🚀 ZAARD INNOVATION
