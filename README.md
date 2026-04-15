@@ -1,6 +1,3 @@
-https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/zaard_logo.png
-
-
 # 🚀 ZAARD INNOVATION
 ### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
 
