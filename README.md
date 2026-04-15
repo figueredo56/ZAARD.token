@@ -3,6 +3,8 @@
 
 Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
 
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+
 💎 Fundamentos de Acero
 
 Lo que separa a un proyecto pasajero de una revolución es su base. ZAARD.2 se ha construido sobre tres pilares innegociables:
