@@ -27,17 +27,8 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 
 
 <p align="center">
-  <img 
-  src="https://ipfs.io/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" 
-  width="200" 
-  title="ZAARD INNOVATION" 
-  alt="ZAARD INNOVATION">
-</p>
-
-### ✨ Identidad del Protocolo
-`bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya`
-
-*Recurso gráfico oficial verificado en IPFS. Este activo representa la deidad absoluta de la red y el núcleo visual de **ZAARD INNOVATION**.*
+  <img src="https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" width="200" title="ZAARD Plata" alt="ZAARD Plata">
+  <img
 
 ---
 
