@@ -26,13 +26,20 @@ Comunidad Creciente: El número de titulares está en aumento constante, formand
 ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
 
 
-![ZAARD Logo](https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya)
+<p align="center">
+  <img 
+  src="https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" 
+  width="200" 
+  title="ZAARD INNOVATION" 
+  alt="ZAARD INNOVATION">
+</p>
 
-### Asset ID (CID)
+### ✨ Identidad del Protocolo
 `bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya`
 
-### Descripción
-Recurso gráfico oficial de **ZAARD INNOVATION** alojado en la red descentralizada IPFS. Este archivo representa la identidad visual principal del protocolo y se utiliza para la verificación de branding en contratos inteligentes, marketplaces de NFTs y la interfaz del Arcade Web3.
+*Recurso gráfico oficial verificado en IPFS. Este activo representa la deidad absoluta de la red y el núcleo visual de **ZAARD INNOVATION**.*
+
+---
 
 
 
