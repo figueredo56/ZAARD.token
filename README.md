@@ -28,7 +28,7 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 
 <p align="center">
   <img 
-  src="https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" 
+  src="https://ipfs.io/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" 
   width="200" 
   title="ZAARD INNOVATION" 
   alt="ZAARD INNOVATION">
@@ -38,6 +38,8 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 `bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya`
 
 *Recurso gráfico oficial verificado en IPFS. Este activo representa la deidad absoluta de la red y el núcleo visual de **ZAARD INNOVATION**.*
+
+---
 
 ---
 
