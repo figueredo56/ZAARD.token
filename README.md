@@ -26,8 +26,9 @@ Comunidad Creciente: El número de titulares está en aumento constante, formand
 ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
 
 
-  <img src="https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" alt="ZAARD INNOVATION Logo" width="200">
-</p>
+<p align="center">
+  <img src="https://gateway.pinata.cloud/ipfs/bafkreiacbd7wmox2iuzgtjpkkhr4rgtvpusyr34fpbkjveoc2ypkbegpya" width="200" title="ZAARD Plata" alt="ZAARD Plata">
+  <img
 
 
 
