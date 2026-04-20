@@ -26,6 +26,7 @@ Comunidad Creciente: El número de titulares está en aumento constante, formand
 ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema blockchain con soluciones de IA de alta fidelidad. Seguimos mejorando y avanzando con una visión clara: el futuro es hoy y nada nos detiene. 🚀🔥
 
 
+![Zaard Innovation](https://ipfs.io/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq)
 
 ---
 
