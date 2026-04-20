@@ -96,10 +96,7 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 ### ✨ Los Pilares de la Economía
 *Los rangos fundamentales que sostienen el valor de nuestra comunidad.*
 
-<p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
-  <img src="https://gateway.pinata.cloud/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq" width="200" title="ZAARD Oro" alt="ZAARD ESCUDO">
-</p>
+![Zaard Innovation](https://ipfs.io/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq)
 
 ---
 
