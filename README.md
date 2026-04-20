@@ -97,7 +97,7 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 
 <p align="center">
   <img src="https://gateway.pinata.cloud/ipfs/bafybeid6bhmppwq47cdkz76tdt3fsyrsoilvgcrlaxmwi56hcajb34mjzm" width="200" title="ZAARD Plata" alt="ZAARD Plata">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeiay57c4nstujgnvlfichy6hw7yenmsza66imr3mwxkzq4qjfoyxqa" width="200" title="ZAARD Oro" alt="ZAARD Oro">
+  <img src="https://gateway.pinata.cloud/ipfs/bafkreicd3i7jagmv5iig5t3nttdqpwmv6xa2e3ahyvtzh7vy2hdglbfvsq" width="200" title="ZAARD Oro" alt="ZAARD ESCUDO">
 </p>
 
 ---
