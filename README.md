@@ -1,4 +1,4 @@
-![Texto alternativo](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/Gemini_Generated_Image_e47d5ne47d5ne47d.png
+![Logo de ZAARD](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/Gemini_Generated_Image_e47d5ne47d5ne47d.png)
 
 # 🚀 ZAARD INNOVATION
 ### El Token de Impacto con un Futuro Brillante en la BNB Smart Chain
