@@ -173,6 +173,10 @@ Stay connected with the true source of ZAARD innovation.
 * **🏠 Official Website:** [https://figueredo56.github.io/zaard-official/](https://figueredo56.github.io/zaard-official/)
 * **🐦 Official X (Twitter):** [@ZAARD_666](https://x.com/ZAARD_666)
 * **💰 Binance User Profile (Founder/DAO):** [View on Binance](https://account.binance.com/register?ref=776427353&?registerChannel=user_center) (User ref: 776427353)
+## 👤 Founder & Lead Developer
+Desarrollado por **Aracelis (Panga)** - Founder de ZAARD INNOVATION.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/zaard-innovation-4a186b406)
 
 ---
 
