@@ -4,7 +4,6 @@ El protocolo fue fundado y desarrollado por Panga (Aracelis), desarrollador espe
 
 Desarrollador: Panga
 Proyecto: ZAARD INNOVATION
-Web: [Sitio Web Oficial de ZAARD INNOVATION](https://figueredo56.github.io/ZAARD-Arcade/)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo-zaard.png" alt="ZAARD INNOVATION Logo" width="400">
