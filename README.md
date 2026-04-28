@@ -16,10 +16,6 @@ Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la ex
 ---
 # ZAARD INNOVATION 🚀
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/file.svg" width="150" alt="ZAARD Logo">
-</p>
-
 ---
 
 ### Contacto Oficial
