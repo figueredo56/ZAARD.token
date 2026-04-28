@@ -14,9 +14,24 @@ Proyecto: ZAARD INNOVATION
 
 Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
 ---
+# ZAARD INNOVATION 🚀
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/refs/heads/main/CC_20260427_211503.png" width="200" alt="ZAARD PANGA Logo">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/file.svg" width="150" alt="ZAARD Logo">
 </p>
+
+---
+
+### Contacto Oficial
+Para verificaciones de seguridad y soporte técnico, puede contactarnos en:
+[figueredo56aracelis@gmail.com](mailto:figueredo56aracelis@gmail.com)
+
+---
+
+---
+
+![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/file.svg)
+
 
 # ZAARD INNOVATION
 
