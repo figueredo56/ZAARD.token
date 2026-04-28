@@ -15,7 +15,12 @@ Web: [Sitio Web Oficial de ZAARD INNOVATION](https://figueredo56.github.io/ZAARD
 
 Presentamos **ZAARD INNOVATION**, un ecosistema diseñado para transformar la experiencia Web3. No es solo un token; es una marca que combina tecnología blockchain de vanguardia con colecciones exclusivas de activos digitales. Con una visión clara y una comunidad en crecimiento, **ZAARD** nace para dejar huella en el mundo cripto.
 
-![Logo ZAARD INNOVATION](https://raw.githubusercontent.com/figueredo56/ZAARD.token/main/logo.png)
+![Logo ZAARD INNOVATION]
+<p align="center">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD.token/refs/heads/main/CC_20260427_211503.png" width="200" alt="ZAARD PANGA Logo">
+</p>
+
+# ZAARD INNOVATION
 
 💎 Fundamentos de Acero
 
