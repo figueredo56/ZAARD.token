@@ -130,9 +130,11 @@ Explora la exclusividad y el poder de nuestros activos digitales verificados, de
 *Poder refinado y energía concentrada. Estos rangos representan la maestría sobre los elementos criptográficos.*
 
 <p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeiafcclndycyvb5p62jjhnypzezaa2fxw2oqmlt5azvual334lgd6y" width="200" title="ZAARD Esmeralda" alt="ZAARD Esmeralda">
+  <img src="https://raw.githubusercontent.com/figueredo56/ZAARD-Alerta-Explicada/refs/heads/main/CC_20260430_215529.png" alt="ZAARD Alerta" width="100%">
+</p>
 
 
+---
 ---
 
 ### 👑 EL REY ABSOLUTO: ZAARD PANGA
@@ -155,9 +157,6 @@ CONFIANZA TOTAL: Creemos tanto en el futuro que no solo lo imaginamos, creamos l
 
 ---
 
-<p align="center">
-  <img src="https://gateway.pinata.cloud/ipfs/bafybeic5377igwloc2o63whivoykazkibjruq7bau4edjpfdfu4gudunjm" width="250" alt="ZAARD">
-</p>
 
 #Activos Digitales y Colecciones (NFTs)
 
