@@ -69,10 +69,10 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | **Nombre Oficial** | ZAARD INNOVATION |
 | **Símbolo de Ticket** | $ZARD |
 | **Decimales** | 18 |
-| **Suministro Total** | 200.00 $ZARD (Escasez Asegurada) |
+| **Suministro Total** | 8000.00 $ZARD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x5b6678a6d11e5526411e36f169724ae326879d55` |
-| **Quemados (10% tokens)** | `` |
+| **Contrato Inteligente** | `0x3eb930a1f8d562a72ba278d67b20b2d0d475d61f` |
+| **Quemados (2K tokens)** | `0xb35db9c41695e316f0009ceb13680277e9d6a034edb02333d5d9193c49f89a75` |
 
 
 ![ZAARD PINK](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/131%20sin%20t%C3%ADtulo_20260618090852.png).
