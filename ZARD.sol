@@ -7,6 +7,6 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 contract ZARD is ERC20, Ownable {
     constructor() ERC20("ZARD", "ZARD") Ownable(msg.sender) {
             // 10,000 tokens exactos con 18 decimales
-                    _mint(msg.sender, 10000 * 10 ** decimals());
+                    _mint(msg.sender, 10000000 * 10 ** decimals());
                         }
                         }
