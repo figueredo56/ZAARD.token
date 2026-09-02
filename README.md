@@ -5,6 +5,8 @@
     🌐 Ver imagen completa en internet
   </a>
 
+`0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
+
 </div>
 
 
@@ -71,11 +73,12 @@ ZAARD INNOVATION: Evolución constante. Elevamos los estándares del ecosistema 
 | **Nombre Oficial** | ZAARD INNOVATION |
 | **Símbolo de Ticket** | $ZARD |
 | **Decimales** | 18 |
-| **Suministro Total** | 8000.00 $ZARD (Escasez Asegurada) |
+| **Suministro Total** | 1,000,000.00 $ZARD (Escasez Asegurada) |
 | **Red de Operación** | Binance Smart Chain (BEP20) |
-| **Contrato Inteligente** | `0x3eb930a1f8d562a72ba278d67b20b2d0d475d61f` |
-| **Quemados (2K tokens)** | `0xb35db9c41695e316f0009ceb13680277e9d6a034edb02333d5d9193c49f89a75` |
-
+| **Contrato Inteligente** | `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38` |
+| ** POOL LIQUIDEZ ZARD ** | `0x046dd1d5c62a6dffafaa4886b3004fed7d409dd3` |
+| ** POOL LIQUIDEZ   V2 ** | `0x7ce103a756d050817614b0d107c1c61071188c0b` |
+| ** Renuncia al contrato** | `` |
 
 ![ZAARD PINK](https://raw.githubusercontent.com/figueredo56/ZARD.token/refs/heads/main/131%20sin%20t%C3%ADtulo_20260618090852.png).
 
