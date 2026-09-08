@@ -7,6 +7,22 @@
 
 `0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38`
 
+<div align="center">
+
+  <a href="https://www.dexview.com/bsc/0x973ba2C1dCCD0820F1e026d6B1f01c55c4085d38" target="_blank">
+    <img src="https://photos.pinksale.finance/file/pinksale-logo-upload/1788644497011-a93d76e16114b626547afc4936d073d2.png" alt="ZARD Token Logo" width="180" height="180" style="border-radius: 50%;" />
+  </a>
+
+  # 🚀 ZARD TOKEN 🚀
+
+  > *Building solid foundations and generating trust for our investors and new enthusiasts.*
+
+  ---
+
+  ### 📄 Contract Address (BSC)
+  ```text
+  0x973ba2c1dccd0820f1e026d6b1f01c55c4085d38
+
 </div>
 
 
